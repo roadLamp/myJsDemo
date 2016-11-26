@@ -1,0 +1,20 @@
+.outerDiv {
+	width: 1300px;
+	height: 400px;
+}
+
+.div {
+	width: 600px;
+	height: 337px;
+	position: relative;
+	float: left;
+}
+#rightDiv {
+	border: 1px solid gainsboro;
+	background-repeat: no-repeat;
+}
+.mengban {
+	opacity: 0.5;
+	background-color: #999999;
+	position: absolute;
+}
